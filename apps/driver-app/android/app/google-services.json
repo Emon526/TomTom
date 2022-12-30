@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "529003289935",
+    "project_id": "tomtom-b1b23",
+    "storage_bucket": "tomtom-b1b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529003289935:android:8d71fd00b5db65bb15793a",
+        "android_client_info": {
+          "package_name": "com.tomtom.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529003289935-2f9psjrcsa79k595il0o8bljbo33r0b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomtom.taxi.driver",
+            "certificate_hash": "4c493a4eabbd57f15d3765d99ff6f6a7a897f92d"
+          }
+        },
+        {
+          "client_id": "529003289935-p8tq0qkg21rjn5ah0k6utnj5isjvtjf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomtom.taxi.driver",
+            "certificate_hash": "4f7d89ce371c8f35783dde5259ac7db146284e95"
+          }
+        },
+        {
+          "client_id": "529003289935-1n0ktjc0htvvp8slhq1lgg8foh8o3rto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmCcRFQXlVytdvlAJFVEQGnU1WCqMkV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529003289935-1n0ktjc0htvvp8slhq1lgg8foh8o3rto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529003289935-3pef7itc1qbeffq3533ia7jpf7nvm9s2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tomtom.taxi.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529003289935:android:11b4535377dd4b2b15793a",
+        "android_client_info": {
+          "package_name": "com.tomtom.taxi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529003289935-9ckjhgq3j9ckgqtv2rb1vn9tul2v497h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomtom.taxi.rider",
+            "certificate_hash": "4f7d89ce371c8f35783dde5259ac7db146284e95"
+          }
+        },
+        {
+          "client_id": "529003289935-q2694m1u4la6konm9e7ggcqevctrhjg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tomtom.taxi.rider",
+            "certificate_hash": "0b929b2647c94a958b1b312f41e06bed19f0c958"
+          }
+        },
+        {
+          "client_id": "529003289935-1n0ktjc0htvvp8slhq1lgg8foh8o3rto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmCcRFQXlVytdvlAJFVEQGnU1WCqMkV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529003289935-1n0ktjc0htvvp8slhq1lgg8foh8o3rto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529003289935-3pef7itc1qbeffq3533ia7jpf7nvm9s2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tomtom.taxi.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
